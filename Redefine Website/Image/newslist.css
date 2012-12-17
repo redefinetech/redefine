@@ -1,0 +1,18 @@
+UL.newslist {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 20px
+}
+LI.newslist {
+	PADDING-LEFT: 12px; BACKGROUND: url(list.gif) no-repeat 0px 3px; MARGIN: 0px; LIST-STYLE-TYPE: none; HEIGHT: 25px
+}
+A.newslist:link {
+	FONT: 12px/18px Verdana, Arial, Helvetica, sans-serif; COLOR: #505050; TEXT-DECORATION: none
+}
+A.newslist:visited {
+	FONT: 12px/18px Verdana, Arial, Helvetica, sans-serif; COLOR: #505050; TEXT-DECORATION: none
+}
+A.newslist:active {
+	FONT: 12px/18px Verdana, Arial, Helvetica, sans-serif; COLOR: #505050; TEXT-DECORATION: none
+}
+A.newslist:hover {
+	FONT: 12px/18px Verdana, Arial, Helvetica, sans-serif; COLOR: #ff6600
+}

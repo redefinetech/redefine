@@ -1,0 +1,36 @@
+DIV.productsearchformzone {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 14px; MARGIN: 0px; PADDING-TOP: 10px; HEIGHT: 100%
+}
+DIV.productsearchformzone DIV.productsearchform {
+	MARGIN-TOP: 1px; LINE-HEIGHT: 19px; HEIGHT: 22px
+}
+DIV.productsearchformzone DIV.productsearchformleft {
+	MARGIN-TOP: 3px; FLOAT: left; LINE-HEIGHT: 19px; HEIGHT: 22px
+}
+DIV.productsearchformzone .inputproduct {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #7e7e7e; LINE-HEIGHT: 17px; HEIGHT: 18px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.productsearchformzone .buttonimage {
+	MARGIN-TOP: 4px; HEIGHT: 22px
+}
+DIV.productsearchformzone DIV.productsearchform2 {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 4px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 19px; PADDING-TOP: 0px; HEIGHT: 20px
+}
+DIV.productsearchformzone DIV.productsearchform .box {
+	BORDER-RIGHT: #e3e9ef 1px solid; FONT-SIZE: 10pt; BORDER-LEFT: #e3e9ef 1px solid; COLOR: #676f78; BORDER-BOTTOM: #e3e9ef 1px solid; FONT-FAMILY: "verdna"
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxSelectedArea {
+	PADDING-LEFT: 3px; FONT-SIZE: 12px; COLOR: #676f78; LINE-HEIGHT: 17px; PADDING-TOP: 1px; BACKGROUND-COLOR: #ffffff
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxSelectedAreaFocus {
+	PADDING-LEFT: 3px; FONT-SIZE: 12px; COLOR: #676f78; LINE-HEIGHT: 17px; PADDING-TOP: 1px; BACKGROUND-COLOR: #ffffff
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxOption {
+	PADDING-LEFT: 3px; FONT-SIZE: 12px; COLOR: #676f78; LINE-HEIGHT: 17px; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxOptionOver {
+	PADDING-LEFT: 3px; FONT-SIZE: 12px; COLOR: #676f78; LINE-HEIGHT: 17px; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxOptionInnerLayer {
+	BORDER-RIGHT: #e3e9ef 1px solid; BORDER-TOP: #e3e9ef 1px solid; SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #b4b4b4; OVERFLOW: auto; BORDER-LEFT: #e3e9ef 1px solid; SCROLLBAR-SHADOW-COLOR: #b4b4b4; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #838383; SCROLLBAR-TRACK-COLOR: #eaeaea; BORDER-BOTTOM: #e3e9ef 1px solid; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; BACKGROUND-COLOR: #ffffff
+}

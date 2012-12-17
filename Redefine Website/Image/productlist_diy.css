@@ -1,0 +1,27 @@
+DIV.productlist_diy {
+	PADDING-RIGHT: 32px; PADDING-LEFT: 1px; BACKGROUND: url(pbg.jpg) no-repeat 0px 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 1px; TEXT-ALIGN: center
+}
+DIV.productlist_diy DIV.fang {
+	BORDER-RIGHT: #ccc 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #ccc 0px solid; PADDING-LEFT: 0px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; BORDER-LEFT: #ccc 0px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #ccc 0px solid; TEXT-ALIGN: center
+}
+DIV.productlist_diy DIV.picFit {
+	OVERFLOW: hidden
+}
+DIV.productlist_diy DIV.picFit IMG {
+	
+}
+DIV.productlist_diy DIV.title {
+	OVERFLOW: hidden; WHITE-SPACE: nowrap; TEXT-ALIGN: center
+}
+DIV.productlist_diy A:link {
+	FONT: 12px/42px arial,simsun; COLOR: #464646; TEXT-DECORATION: none
+}
+DIV.productlist_diy A:visited {
+	FONT: 12px/42px arial,simsun; COLOR: #464646; TEXT-DECORATION: none
+}
+DIV.productlist_diy A:active {
+	FONT: 12px/42px arial,simsun; COLOR: #464646; TEXT-DECORATION: none
+}
+DIV.productlist_diy A:hover {
+	FONT: 12px/42px arial,simsun; COLOR: #ff0000; TEXT-DECORATION: underline
+}

@@ -1,0 +1,15 @@
+DIV.productclass_dolphin {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 3px; PADDING-BOTTOM: 20px; MARGIN: 0px; PADDING-TOP: 15px
+}
+A.productclass_dolphin:link {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 16px; BACKGROUND: url(dot2.jpg) no-repeat 0px 4px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 12px/18px Verdana, Arial, Helvetica, sans-serif; COLOR: #505050; PADDING-TOP: 0px; HEIGHT: 25px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.productclass_dolphin:visited {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 16px; BACKGROUND: url(dot2.jpg) no-repeat 0px 4px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 12px/18px Verdana, Arial, Helvetica, sans-serif; COLOR: #505050; PADDING-TOP: 0px; HEIGHT: 25px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.productclass_dolphin:active {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 16px; BACKGROUND: url(dot2.jpg) no-repeat 0px 4px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 12px/18px Verdana, Arial, Helvetica, sans-serif; COLOR: #505050; PADDING-TOP: 0px; HEIGHT: 25px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.productclass_dolphin:hover {
+	DISPLAY: block; COLOR: #ff6600; TEXT-DECORATION: none
+}

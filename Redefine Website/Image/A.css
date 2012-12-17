@@ -1,0 +1,45 @@
+.dropdownmenu_dolphin {
+	CLEAR: both; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 100%; COLOR: #fff; WHITE-SPACE: nowrap; HEIGHT: 28px
+}
+.dorpmenu_dolphin {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 3px 0px 0px; WIDTH: 80px; COLOR: #fff; PADDING-TOP: 0px; HEIGHT: 28px; TEXT-ALIGN: center
+}
+A.dorpmenu_dolphin:link {
+	DISPLAY: block; BACKGROUND: url(menu.jpg) no-repeat 0px 0px; FONT: 12px/30px 'SimSun',Arial,Sans-Serif; COLOR: #fff; HEIGHT: 28px; TEXT-DECORATION: none
+}
+A.dorpmenu_dolphin:visited {
+	DISPLAY: block; BACKGROUND: url(menu.jpg) no-repeat 0px 0px; FONT: 12px/30px 'SimSun',Arial,Sans-Serif; COLOR: #fff; HEIGHT: 28px; TEXT-DECORATION: none
+}
+A.dorpmenu_dolphin:active {
+	DISPLAY: block; BACKGROUND: url(menu.jpg) no-repeat 0px 0px; FONT: 12px/30px 'SimSun',Arial,Sans-Serif; COLOR: #fff; HEIGHT: 28px; TEXT-DECORATION: none
+}
+A.dorpmenu_dolphin:hover {
+	BACKGROUND: url(menunow.jpg) no-repeat 0px 0px; COLOR: #505050; HEIGHT: 28px; TEXT-DECORATION: none
+}
+DIV.subdorpmenu_dolphin {
+	DISPLAY: none; POSITION: absolute
+}
+DIV.subdorpmenu_dolphin UL {
+	BORDER-TOP-WIDTH: 0px; BACKGROUND: #f0f0f0; WIDTH: 80px; COLOR: #2e2e2e
+}
+DIV.subdorpmenu_dolphin LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; BORDER-BOTTOM: #fff 1px solid; LIST-STYLE-TYPE: none; HEIGHT: 25px; TEXT-ALIGN: center
+}
+DIV.subdorpmenu_dolphin LI.current {
+	COLOR: #2e2e2e; HEIGHT: 25px
+}
+DIV.subdorpmenu_dolphin A {
+	DISPLAY: block; MARGIN: 0px; FONT: 12px/24px 'SimSun',Arial,Sans-Serif; COLOR: #2e2e2e; TEXT-DECORATION: none
+}
+A.subdorpmenu_dolphin:link {
+	DISPLAY: block; MARGIN: 0px; FONT: 12px/24px 'SimSun',Arial,Sans-Serif; COLOR: #2e2e2e; TEXT-DECORATION: none
+}
+A.subdorpmenu_dolphin:visited {
+	DISPLAY: block; MARGIN: 0px; FONT: 12px/24px 'SimSun',Arial,Sans-Serif; COLOR: #2e2e2e; TEXT-DECORATION: none
+}
+A.subdorpmenu_dolphin:active {
+	DISPLAY: block; MARGIN: 0px; FONT: 12px/24px 'SimSun',Arial,Sans-Serif; COLOR: #2e2e2e; TEXT-DECORATION: none
+}
+A.subdorpmenu_dolphin:hover {
+	DISPLAY: block; MARGIN: 0px; FONT: 12px/24px 'SimSun',Arial,Sans-Serif; COLOR: #141414; TEXT-DECORATION: none
+}
